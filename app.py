@@ -4,9 +4,6 @@ print("This is my feature branch")
 print('I am practicing Git and GitHub')
 print("Login feature is being developed")
 print("Change made directly on GitHub")
-<<<<<<< HEAD
 print("Change made from test branch")
-=======
 print("Change made from master branch")
->>>>>>> master
 print("New change on master")
